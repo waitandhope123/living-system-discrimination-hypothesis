@@ -13,7 +13,7 @@ This is an existence test only. It is designed to fail decisively if no real sig
 
 ---
 
-Repository Structure Note
+## Repository Structure Note
 This repository follows a standardized directory layout used across related projects for consistency.
 The presence of directories does not imply active use or scope inclusion.
 Only the Phase 1 documents explicitly populated and referenced by this manifest define the active scope; other sections are placeholders unless stated otherwise.
